@@ -1,2 +1,5 @@
 ﻿  main.cpp
-  SFML.vcxproj -> C:\Users\polo3\source\repos\SFML_ExampleProject\Debug\SFML_CircleProject.exe
+C:\Users\polo3\Documents\GD1P03-2DGameProgramming\SFML_ExampleProject\SFML\main.cpp(71,75): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\polo3\Documents\GD1P03-2DGameProgramming\SFML_ExampleProject\SFML\main.cpp(77,75): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\polo3\Documents\GD1P03-2DGameProgramming\SFML_ExampleProject\SFML\main.cpp(86,27): warning C4018: '<': signed/unsigned mismatch
+  SFML.vcxproj -> C:\Users\polo3\Documents\GD1P03-2DGameProgramming\SFML_ExampleProject\Debug\SFML_CircleProject.exe
